@@ -1,6 +1,10 @@
-My section name
-===============
 # hello-world
 Just another repository
-or maybe not
-this has been edited by another user
+
+My first item list 
+* Learn SQL
+* Learn Excel
+* Learn VBA
+* Learn GitHub
+_this text is in italics_ **this is boldface**
+
